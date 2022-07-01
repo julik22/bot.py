@@ -1,2 +1,2 @@
-# discord
-Discord projects
+# Discord bot Python
+Boom project

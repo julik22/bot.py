@@ -29,4 +29,4 @@ if __name__ == "__main__":
             print(e)
 
 
-client.run("OTkxOTM4MjQwODU4ODIwNjA4.Gi8Exk.Uw54B-xv7bTUN5zp4Z9nYue2Q9Q2_Nx526R_YA")
+client.run("token")
